@@ -5,4 +5,18 @@ Oi Hannah, segue meu exercicio da semana. Confesso que foi MUITO sofrido, mais a
 ```
 Eu utilizei o indexOf + If 
 ```
+## Professora, acho que o que foi enviado não ficou completo
+
+class constrDna {
+    construtor(rna){
+    this.rna = rna
+    }
+}
+const dna = ["ATGCCGAAATTTGCG"]
+const letras = dna.indexOf("ATGCCGAAATTTGCG")
+if (letras !== 1){
+    dna[letras] = "UACGGCUUUAAACGC"
+}
+console.log(`O segmento do RNA é ${dna}`)
+
 Obrigada ❤️
