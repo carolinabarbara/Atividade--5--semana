@@ -5,7 +5,10 @@ Oi Hannah, segue meu exercicio da semana. Confesso que foi MUITO sofrido, mais a
 ```
 Eu utilizei o indexOf + If 
 ```
-## Professora, acho que o que foi enviado não ficou completo
+
+Professora, acho que o que foi enviado não ficou completo
+
+refiz dessa forma:
 
 class constrDna {
     construtor(rna){
